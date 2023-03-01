@@ -1,5 +1,5 @@
 # CROPS-DAMAGE-
-Creating a ML model to predict damaged and healthy crops within the dataset
+Used an ML model to predict damaged and healthy crops within the dataset, applied Voter classifier to maximize output between Random forest and Decision tree models
 
 Many factors lead to a succesful harvest , while alot of these factors are difficult to control, measures can be taken to improve the potential of a succesful yield. Factors such as soil type,soil fertility ,Favourable weather condition , season and pesticides/pest control among others are factors Farmers pay keen interest to as they are more within their control and professional judgement.
 
@@ -7,7 +7,7 @@ This project takes look at most of these conditions , with focus on pesticide us
 
 This data is based on crops harvested by various farmers at the end of harvest season and our desire to predict the outcome of these harvest taking into account the factors presented to us. As well as the cause for the crop damages recorded
 
-# ML LIBRARIES
+# ML models
 
 ## K FOLD CROSS VALIDATION
 
