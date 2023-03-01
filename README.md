@@ -1,5 +1,5 @@
 # CROPS-DAMAGE-
-Creating a ML model to predict damaged crops within the dataset
+Creating a ML model to predict damaged and healthy crops within the dataset
 
 Many factors lead to a succesful harvest , while alot of these factors are difficult to control, measures can be taken to improve the potential of a succesful yield. Factors such as soil type,soil fertility ,Favourable weather condition , season and pesticides/pest control among others are factors Farmers pay keen interest to as they are more within their control and professional judgement.
 
